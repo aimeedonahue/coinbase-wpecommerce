@@ -16,3 +16,7 @@ After copying the files, open the Wordpress dashboard and navigate to Settings >
 ![Setup](http://i.imgur.com/D4oAtzY.png)
 
 Then follow the instructions to connect a merchant account.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/aimeedonahue/coinbase-wpecommerce/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
